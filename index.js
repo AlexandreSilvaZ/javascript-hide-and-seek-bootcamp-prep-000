@@ -1,1 +1,4 @@
 
+function querySelector(arguement){
+  
+}
